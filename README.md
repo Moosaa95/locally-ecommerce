@@ -4,7 +4,7 @@ E-commerce App is a web application that allows users to browse and purchase pro
 
 ## Features
 
-- **User Authentication:**
+- **User Authentication with local storage:**
   - Sign up with a unique username and a secure password.
   - Log in to access the E-commerce App features.
 
